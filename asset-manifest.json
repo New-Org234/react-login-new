@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/react-workflow-gh-actions/static/css/main.04b23134.chunk.css",
-    "main.js": "/react-workflow-gh-actions/static/js/main.e9a771d7.chunk.js",
-    "main.js.map": "/react-workflow-gh-actions/static/js/main.e9a771d7.chunk.js.map",
-    "runtime-main.js": "/react-workflow-gh-actions/static/js/runtime-main.62df2b8b.js",
-    "runtime-main.js.map": "/react-workflow-gh-actions/static/js/runtime-main.62df2b8b.js.map",
-    "static/css/2.0975cee1.chunk.css": "/react-workflow-gh-actions/static/css/2.0975cee1.chunk.css",
-    "static/js/2.e5d6cd01.chunk.js": "/react-workflow-gh-actions/static/js/2.e5d6cd01.chunk.js",
-    "static/js/2.e5d6cd01.chunk.js.map": "/react-workflow-gh-actions/static/js/2.e5d6cd01.chunk.js.map",
-    "index.html": "/react-workflow-gh-actions/index.html",
-    "static/css/2.0975cee1.chunk.css.map": "/react-workflow-gh-actions/static/css/2.0975cee1.chunk.css.map",
-    "static/css/main.04b23134.chunk.css.map": "/react-workflow-gh-actions/static/css/main.04b23134.chunk.css.map",
-    "static/js/2.e5d6cd01.chunk.js.LICENSE.txt": "/react-workflow-gh-actions/static/js/2.e5d6cd01.chunk.js.LICENSE.txt",
-    "static/media/SignUp.module.css": "/react-workflow-gh-actions/static/media/tik.02de272a.svg",
-    "static/media/email.0accdc73.svg": "/react-workflow-gh-actions/static/media/email.0accdc73.svg",
-    "static/media/password.b5ad9e0e.svg": "/react-workflow-gh-actions/static/media/password.b5ad9e0e.svg",
-    "static/media/user.f47683c7.svg": "/react-workflow-gh-actions/static/media/user.f47683c7.svg"
+    "main.css": "/static/css/main.e48ac186.chunk.css",
+    "main.js": "/static/js/main.e9a771d7.chunk.js",
+    "main.js.map": "/static/js/main.e9a771d7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0d8c0afa.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0d8c0afa.js.map",
+    "static/css/2.0975cee1.chunk.css": "/static/css/2.0975cee1.chunk.css",
+    "static/js/2.e5d6cd01.chunk.js": "/static/js/2.e5d6cd01.chunk.js",
+    "static/js/2.e5d6cd01.chunk.js.map": "/static/js/2.e5d6cd01.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0975cee1.chunk.css.map": "/static/css/2.0975cee1.chunk.css.map",
+    "static/css/main.e48ac186.chunk.css.map": "/static/css/main.e48ac186.chunk.css.map",
+    "static/js/2.e5d6cd01.chunk.js.LICENSE.txt": "/static/js/2.e5d6cd01.chunk.js.LICENSE.txt",
+    "static/media/SignUp.module.css": "/static/media/tik.02de272a.svg",
+    "static/media/email.0accdc73.svg": "/static/media/email.0accdc73.svg",
+    "static/media/password.b5ad9e0e.svg": "/static/media/password.b5ad9e0e.svg",
+    "static/media/user.f47683c7.svg": "/static/media/user.f47683c7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.62df2b8b.js",
+    "static/js/runtime-main.0d8c0afa.js",
     "static/css/2.0975cee1.chunk.css",
     "static/js/2.e5d6cd01.chunk.js",
-    "static/css/main.04b23134.chunk.css",
+    "static/css/main.e48ac186.chunk.css",
     "static/js/main.e9a771d7.chunk.js"
   ]
 }
