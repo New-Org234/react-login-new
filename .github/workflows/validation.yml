@@ -12,7 +12,7 @@ jobs:
        run: |
         gh api \
         -H "Accept: application/vnd.github+json" \
-        /orgs/New-Org234/teams/TEST_TEAM/members
+        /orgs/New-Org234/teams/test_team/members
         
        env:
               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
