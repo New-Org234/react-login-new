@@ -5,16 +5,15 @@ on:
 
 jobs:
   Validate:
-
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      run: |
+     - name: Checkout repository
+       run: |
         gh api \
         -H "Accept: application/vnd.github+json" \
         /orgs/New-Org234/teams/TEST_TEAM/members
         
-     env:
+       env:
               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
