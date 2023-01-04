@@ -13,7 +13,7 @@ jobs:
        
         gh api \
         -H "Accept: application/vnd.github+json" \
-        /orgs/ORG/teams/TEAM_SLUG/members
+        /orgs/New-Org234/teams/TEAM_SLUG/members
        env:
               GH_TOKEN: ${{ secrets.TEAM_TOKEN }}
         
