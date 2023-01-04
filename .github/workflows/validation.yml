@@ -15,5 +15,5 @@ jobs:
         -H "Accept: application/vnd.github+json" \
         /orgs/ORG/teams/TEAM_SLUG/members
        env:
-              TEAM_TOKEN: ${{ secrets.TEAM_TOKEN }}
+              GH_TOKEN: ${{ secrets.TEAM_TOKEN }}
         
