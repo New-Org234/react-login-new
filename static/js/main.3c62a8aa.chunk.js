@@ -1,0 +1,2 @@
+(this["webpackJsonplogin-form"]=this["webpackJsonplogin-form"]||[]).push([[0],{16:function(e,n,c){},23:function(e,n,c){"use strict";c.r(n);c(0);var r=c(8),t=c.n(r),s=(c(16),c(2));var i=function(){return Object(s.jsx)("div",{className:"App",children:Object(s.jsx)("header",{className:"App-header",children:Object(s.jsx)("p",{children:"UPDATED CPQ DATA NON PROD JOB."})})})},a=c(11);t.a.render(Object(s.jsx)(a.a,{children:Object(s.jsx)(i,{})}),document.getElementById("root"))}},[[23,1,2]]]);
+//# sourceMappingURL=main.3c62a8aa.chunk.js.map
