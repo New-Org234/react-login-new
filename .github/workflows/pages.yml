@@ -24,7 +24,8 @@ jobs:
 
     - name: Install dependencies
       run: |
-        npm install --package-lock false
+        npm install react-dom/client
+        npm install 
         npm run build  
         
     - name: Deploy
