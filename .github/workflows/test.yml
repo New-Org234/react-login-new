@@ -3,6 +3,9 @@ name: test
 on:
   workflow_dispatch:
 
+permissions:
+    contents: write
+    repository-projects: read
 jobs:
   build:
 
@@ -11,5 +14,6 @@ jobs:
 
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+    - run: |
+        git push origin --delete protected-test-branch
+    
